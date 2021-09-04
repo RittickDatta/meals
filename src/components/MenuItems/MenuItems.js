@@ -1,4 +1,4 @@
-import styles from './MenuItem.module.css'
+import styles from './MenuItems.module.css'
 
 const MenuItems = (props) => {
     return <></>

@@ -1,4 +1,4 @@
-import styles from './Myorders.module.css';
+import styles from './MyOrders.module.css';
 
 const MyOrders = (props) => {
     return <></>
