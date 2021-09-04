@@ -1,12 +1,7 @@
-import classes from './Button.module.css'
-import React from 'react'
+import styles from './Button.module.css'
 
-function Button() {
-    return (
-        <div>
-            
-        </div>
-    )
+const Button = (props) => {
+    return <></>
 }
 
-export default Button
+export default Button;
